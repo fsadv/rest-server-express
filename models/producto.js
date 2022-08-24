@@ -33,6 +33,9 @@ const ProductoSchema = Schema({
         type: String,
         default: true
     },
+    img:{
+        type: String
+    }
 
 });
 
